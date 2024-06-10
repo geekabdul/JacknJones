@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/FavoritVM-Regular.eot",
+      "sha1": "f0a64128c2364169cdba880c558409c131e00909"
+    },
+    {
+      "path": "src/assets/fonts/FavoritVM-Regular.otf",
+      "sha1": "8ff7e0d048d90727a36c124a29e534d26a779295"
+    },
+    {
+      "path": "src/assets/fonts/FavoritVM-Regular.woff",
+      "sha1": "a9684e800a05444a4e6ee209d31d6a1eb421f0df"
+    },
+    {
+      "path": "src/assets/fonts/FavoritVM-Regular.woff2",
+      "sha1": "3afca07cc0a0bdbad6ef39f9d53ec490e1481c9f"
+    }
+  ]
+}

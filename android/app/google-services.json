@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36231649334",
+    "project_id": "veromoda-f80f3",
+    "storage_bucket": "veromoda-f80f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36231649334:android:6bfd87256d7a239dda2097",
+        "android_client_info": {
+          "package_name": "com.jacknjones"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBNZfpbUy6PlcGPJyA89mseq3sF9vaqJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

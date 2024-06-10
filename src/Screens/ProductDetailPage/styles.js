@@ -1,0 +1,75 @@
+import {StyleSheet} from 'react-native';
+import {
+  BLACK,
+  DARK_GREY,
+  GREY,
+  LIGHTER_GREY,
+  LIGHT_GREY,
+  PRIMARY,
+  WHITE,
+} from '../../values/Colors';
+export default StyleSheet.create({
+  main__container: {
+    flex: 1,
+    backgroundColor: WHITE,
+    paddingTop: 10,
+    paddingBottom: 50,
+  },
+  caroselImageContainerStyle: {},
+  caroselImageStyle: {
+    height: 450,
+  },
+  inActiveIndicatorStyle: {
+    backgroundColor: GREY,
+  },
+  activeIndicatorStyle: {
+    backgroundColor: 'black',
+    width: 10,
+    height: 10,
+  },
+  indicatorContainerStyle: {top: 45},
+  body__container: {
+    padding: 20,
+    marginTop: 30,
+  },
+  W400S18: {fontSize: 18, color: BLACK},
+  productPrice: {
+    marginVertical: 10,
+    fontSize: 20,
+    color: PRIMARY,
+    fontWeight: '600',
+  },
+  selectSize__Text: {fontWeight: '600', fontSize: 13},
+  selectSizes__container: {marginTop: 10},
+  selectSizes__Subcontainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    width: '52%',
+    paddingVertical: 10,
+  },
+  size__container: {
+    borderWidth: 1,
+    borderColor: LIGHT_GREY,
+    height: 35,
+    width: 35,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  buttons__container: {
+    padding: 10,
+    width: '100%',
+    backgroundColor: WHITE,
+    position: 'absolute',
+    bottom: 0,
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    elevation: 5,
+    borderTopWidth: 2,
+    borderTopColor: LIGHTER_GREY,
+  },
+  buttons__subContainer: {width: '49%'},
+  AddtoCartBtn: {borderRadius: 0, backgroundColor: PRIMARY},
+  StoreAvailability: {borderRadius: 0, backgroundColor: DARK_GREY},
+});

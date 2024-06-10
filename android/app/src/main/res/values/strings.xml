@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JacknJones</string>
+    <string name="facebook_app_id">463349288965716</string>
+    <string name="facebook_client_token">56789</string>
+</resources>
